@@ -1,4 +1,4 @@
-I graduated with a degree in Accounting from the University of Oregon in December of 2013. In 2014, I started the CS program at OSU, got a job at the Oregon Public Utility Commission, got married, bought a house with my husband, and got a dog.
+I graduated with a degree in Accounting from the University of Oregon in December of 2013. In 2014, I started the CS program at OSU, got a job at the Oregon Public Utility Commission, got married, bought a house with my husband, and got a dog. Currently, I'm having a blissfully uneventful year so far and enjoying my study of CS (which is perhaps more difficult but a thousand times more interesting than accounting). 
 
 When I'm free from the gray, windowless box in which I stare at Excel spreadsheets all day, I enjoy reading, playing video games, and playing with my pets. I have a dog named Mochi and a cat named Penelope. They are both nice pets, but the dog has a bad habit of eating various household objects, which is unfortunate.
 
