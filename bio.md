@@ -1,3 +1,4 @@
 When I'm free from the gray, windowless box in which I stare at Excel spreadsheets all day, I enjoy reading, playing video games, and playing with my pets. I have a dog named Mochi and a cat named Penelope. They are both nice pets, but the dog has a bad habit of eating various household objects, which is unfortunate.
 
 Programming Background
+I didn't have any experience with programming prior to starting the CS program at OSU. Just before starting the CS program, I did the JavaScript class on Codecademy, which was somewhat useful in terms of learning about delcaring variables, if statements, for- and while- loops, calling functions, etc. Other than that, everything from 161 onward has been brand new to me.
